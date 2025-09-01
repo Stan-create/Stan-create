@@ -1,10 +1,8 @@
 ## Всем привет | Hi there 👋
 
-<!--
 - Я Станислав Гаменюк, Врач-рентгенолог, Дата-сайентист из России.
 - I'm Stanislav Gamenyuk, a Radiologist, Data-scientist form Russia.
-
-
+<!--
 
 **Stan-create/Stan-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
