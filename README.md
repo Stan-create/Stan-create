@@ -1,6 +1,5 @@
 ## Всем привет 👋
 
-- Я Станислав Гаменюк, Врач-рентгенолог, Дата-сайентист из России.
 <!--
 
 **Stan-create/Stan-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
