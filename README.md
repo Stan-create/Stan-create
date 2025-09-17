@@ -1,6 +1,6 @@
 ## Hi there 👋
-<!--
 I'm Stanislav, a radiologist and data scientist from Russia.
+<!--
 
 **Stan-create/Stan-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
