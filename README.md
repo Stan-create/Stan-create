@@ -4,7 +4,7 @@ I'm Stanislav, a radiologist and data scientist from Russia.
 ✨ **About me in 30 Secs** ✨
 <ul>
 <li>Radiologist with programming education and skills
-  <li>
+  <li> 
 </ul>
 <!--
 
