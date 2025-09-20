@@ -16,11 +16,15 @@ I'm Stanislav, a radiologist and data scientist from Russia.
 💡 **Core Competencies** 💡
 <ul>
   <li>Tools: Radiology, Medicine, Python, SQL, C
-    <li>Skills: Data Cleaning, Data Visualisation, Data Analysis, Creating Neural Networks, Creating UX/UI-design
+    <li>Skills: Data Cleaning, Data Visualisation, Data Analysis, Creation Neural Networks, Creation UX/UI-design
 </ul>
 
- **Currently**
-
+⚡ **Currently** ⚡
+<ul>
+  <li>Analisys of X-ray samples
+    <li>Creation and training neural networks
+      <li>Book: 
+</ul>
 <!--
 
 **Stan-create/Stan-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
