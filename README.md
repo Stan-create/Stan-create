@@ -7,6 +7,20 @@ I'm Stanislav, a radiologist and data scientist from Russia.
   <li>📊 Data scientist since 2020
     <li>📝 Taught Medicine, Radiology, Data Science, Python, SQL and C
 </ul>
+
+📚 **Projects and Guides** 📚
+<ul>
+  <li>It will be some later
+</ul>
+
+💡 **Core Competencies** 💡
+<ul>
+  <li>Tools: Radiology, Medicine, Python, SQL, C
+    <li>Skills: Data Cleaning, Data Visualisation, Data Analysis, Creating Neural Networks, Creating UX/UI-design
+</ul>
+
+ **Currently**
+
 <!--
 
 **Stan-create/Stan-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
