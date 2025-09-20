@@ -1,10 +1,11 @@
 ## Hi there 👋
 I'm Stanislav, a radiologist and data scientist from Russia.
 
-✨ **About me in 30 Secs** ✨
+✨ **About me in 30 Sec** ✨
 <ul>
-<li>Radiologist with programming education and skills
-  <li> 
+<li>🏥 Radiologist with programming education and skills
+  <li>📊 Data Scientist since 2020
+    <li>📝 Taught Medicine, Radiology, Data Science, Python, SQL and C
 </ul>
 <!--
 
