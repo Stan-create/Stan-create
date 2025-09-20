@@ -23,8 +23,14 @@ I'm Stanislav, a radiologist and data scientist from Russia.
 <ul>
   <li>Analisys of X-ray samples
     <li>Creation and training neural networks
-      <li>Book: 
+      <li>Book: "MRI in Practice" by Catherine Westbrook and John Talbot
 </ul>
+
+🙌 **Connect with Me**
+<ul>
+  <li>It will be some later
+</ul>
+
 <!--
 
 **Stan-create/Stan-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
