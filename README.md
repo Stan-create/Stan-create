@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Stanislav, a radiologist and data scientist from Russia.
+I'm Stanislav, a radiologist and data scientist.
 
 ✨ **About me in 30 Sec** ✨
 <ul>
