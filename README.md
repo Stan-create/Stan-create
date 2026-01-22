@@ -18,7 +18,6 @@ I'm Stanislav, a radiologist and data scientist.
 <ul>
   <li>Analisys of X-ray samples
     <li>Creation and training neural networks
-      <li>Book: "MRI in Practice" by Catherine Westbrook and John Talbot
 </ul>
 
 <!--
