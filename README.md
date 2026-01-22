@@ -8,11 +8,6 @@ I'm Stanislav, a radiologist and data scientist.
     <li>📝 Taught Medicine, Radiology, Data Science, Python, SQL and C
 </ul>
 
-📚 **Projects and Guides** 📚
-<ul>
-  <li>It will be some later
-</ul>
-
 💡 **Core Competencies** 💡
 <ul>
   <li>Tools: Radiology, Medicine, Python, SQL, C
@@ -24,11 +19,6 @@ I'm Stanislav, a radiologist and data scientist.
   <li>Analisys of X-ray samples
     <li>Creation and training neural networks
       <li>Book: "MRI in Practice" by Catherine Westbrook and John Talbot
-</ul>
-
-🙌 **Connect with Me**
-<ul>
-  <li>It will be some later
 </ul>
 
 <!--
